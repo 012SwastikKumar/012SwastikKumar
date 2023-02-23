@@ -10,14 +10,14 @@
 - 🌱 I’m currently learning **React, Redux-Toolkit**
 
 - 👨‍💻 All of my projects are available at 
-- [https://012swastikkumar.github.io/My_Portfolio/](https://012swastikkumar.github.io/My_Portfolio/)
+[https://012swastikkumar.github.io/My_Portfolio/](https://012swastikkumar.github.io/My_Portfolio/)
 
 - 💬 Ask me about **UI Design and Frontend**
 
 - 📫 How to reach me **contactswask@gmail.com**
 
 - 📄 Know about my experiences 
-- [https://drive.google.com/file/d/1oTcfkNWlKaiTl8YkBZeWQiYIC61s8lRK/view?usp=share_link](https://drive.google.com/file/d/1oTcfkNWlKaiTl8YkBZeWQiYIC61s8lRK/view?usp=share_link)
+[https://drive.google.com/file/d/1oTcfkNWlKaiTl8YkBZeWQiYIC61s8lRK/view?usp=share_link](https://drive.google.com/file/d/1oTcfkNWlKaiTl8YkBZeWQiYIC61s8lRK/view?usp=share_link)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=012swastikkumar" alt="012swastikkumar" /></a> </p>
 
