@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=012swastikkumar&label=Profile%20views&color=0e75b6&style=flat" alt="012swastikkumar" /> </p>
 
-- 🔭 I’m currently working on [Movix](https://github.com/012SwastikKumar/Movix)
+- 🔭 I’m currently working on [The Algorithmic Path](https://github.com/TheAlgorithmicPath/frontend-main-v1)
 
 - 🌱 I’m currently learning **React, Redux-Toolkit**
 
